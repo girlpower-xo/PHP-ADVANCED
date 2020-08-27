@@ -1,0 +1,20 @@
+<html>
+  <head>
+   
+  </head>
+  <body>
+
+    <?php
+        echo $_POST["Voornaam"]."<br>";
+        echo $_POST["Achternaam"] . "<br>";
+        echo $_POST["Klas"]. "<br>";
+        echo $_POST["Leeftijd"] . "<br>";
+        echo $_POST["Adres"] . "<br>";
+        echo $_POST["Woonplaats"]. "<br>";
+
+
+
+    ?>
+
+  </body>
+</html>
